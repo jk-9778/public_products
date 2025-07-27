@@ -7,7 +7,7 @@ import { Firestore, getFirestore, getDocs, collection, QueryDocumentSnapshot } f
 // export default firebase;
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDciVQ_iJf5I7BlxiGDmx5iq8sWVYVBI2Q",
+  apiKey: "apiKey",
   authDomain: "chat-app-a4351.firebaseapp.com",
   databaseURL: "https://chat-app-a4351-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "chat-app-a4351",
