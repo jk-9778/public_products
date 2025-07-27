@@ -1,0 +1,85 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: azure;
+}
+
+.content {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  background-color: #fdfdfd;
+  border-left: 2px solid #aaaaaa;
+  border-right: 2px solid #aaaaaa;
+  padding: 20px;
+}
+
+.content>* {
+  margin-top: 20px;
+}
+
+.market {
+  font-weight: 600;
+  font-size: 1.5em;
+  align-self: center;
+}
+
+.name {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+.price {
+  font-size: 2em;
+  font-weight: 600;
+  margin-top: 60px;
+}
+
+.images {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.images>img {
+  width: 30%;
+  border: 1px solid #cccccc;
+  margin-right: 15px;
+}
+
+.itemPageButton {
+  width: 200px;
+  height: 40px;
+  background-color: #00ccff;
+  border: 1px solid;
+  border-radius: 40px;
+  cursor: pointer;
+  text-align: center;
+  line-height: 38px;
+}
+
+.itemPageButton:hover {
+  border: 2px solid;
+}
+
+.favoriteButton {
+  width: 200px;
+  height: 40px;
+  background-color: yellow;
+  border: 1px solid;
+  border-radius: 40px;
+  cursor: pointer;
+  text-align: center;
+  line-height: 38px;
+}
+
+.favoriteButton:hover {
+  border: 2px solid;
+}
+
+.review{
+  font-weight: 600;
+  font-size: 1.5em;
+}

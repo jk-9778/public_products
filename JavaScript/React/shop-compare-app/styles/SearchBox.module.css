@@ -1,0 +1,27 @@
+.container {
+  width: 70%;
+  border: 1px solid #777777;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.searchBox {
+  background-color: #fdfdfd;
+  width: 80%;
+  height: 40px;
+}
+
+.searchButton {
+  background-color: #0091e6;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 60px;
+  height: 40px;
+}
+
+.searchButton:hover{
+  cursor: pointer;
+  background-color: #1babff;
+}
