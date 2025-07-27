@@ -41,3 +41,23 @@ Yahoo!が期限切れで使用できなくなってしまいましたが、再�
 入力した都市の天気を確認できるアプリです。  
 ![wheather_app_01](others/readme_images/wheather_app_01.png)  
 ![wheather_app_02](others/readme_images/wheather_app_02.png)  
+  
+  
+  
+## C# / Python フォルダについて  
+C#は実務経験がなく、PythonはBEの助っ人（約3か月）程度の経験です。趣味レベルですがよろしければご覧ください。 
+   
+### C#  
+パス: C#/unity_game/OperationCube  
+Unity + C# を使用した1ステージのみのゲームを作成しました。同フォルダのexeファイルを実行することで試遊可能です。
+コードはScriptsフォルダにまとまっています。その他総裁は「はじめに.txt」をご覧ください。  
+  
+  
+### Python  
+パス: Python/console_game  
+色々な言語の学び初めによく教材にされる有名どころのゲームをコンソールベースで作成したものが入っています。  
+コンソール実行で試遊可能です。  
+  
+パス: Python/pygame  
+pygameというPython用のゲーム用ライブラリを使用して作成したプロジェクトが入っています。  
+実行には Visual Studio と同ライブラリをインストールした環境が必要です。（一部未完です）  
